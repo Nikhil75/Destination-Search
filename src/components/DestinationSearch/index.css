@@ -1,0 +1,17 @@
+* {
+  font-family: 'Roboto';
+}
+body {
+  margin: 0;
+}
+.destination-img {
+  height: 20vh;
+  width: 240px;
+  margin-left: 20px;
+}
+.destination {
+  list-style: none;
+}
+.destination-name {
+  margin-left: 20px;
+}
